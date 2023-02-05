@@ -1,4 +1,6 @@
-/* 
-    verde: #4909d
-    lias:  #5f2c82
-*/
+:root{
+    --cor00: #fff;
+    --cor01: #49a09d;
+    --cor02: #5f2c82;
+    --cor03: #000;
+}
