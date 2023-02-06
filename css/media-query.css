@@ -10,8 +10,9 @@
 :root{
     --cor00: #fff;
     --cor01: #49a09d;
-    --cor02: #5f2c82;
-    --cor03: #000;
+    --cor02: #3e8381;
+    --cor03: #5f2c82;
+    --cor04: #000;
 }
 
 @media screen and (min-width: 768px) and (max-width: 991.98px){
