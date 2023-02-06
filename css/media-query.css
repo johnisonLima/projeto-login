@@ -31,7 +31,7 @@
 
     section#login > div#formulario{
         float: right;
-        width: 70%;
+        width: calc(70% - 20px);
     }
 
     div#formulario > h1{
@@ -59,7 +59,7 @@
 
     section#login > div#formulario{
         float: left;
-        width: 50%;
+        width: calc(50% - 20px);
     }
     
     div#formulario > h1{
